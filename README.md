@@ -1,0 +1,2 @@
+# MiniOB
+My SQL project
